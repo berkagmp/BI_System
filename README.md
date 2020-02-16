@@ -3,9 +3,11 @@
 ## Summary
 
 ### Price Collector
+
 It aims to collect products information by keyword like price, delivery fee, seller and so on from eCommerce API service every single day and shows statistical trend using charts and tables.
 
 ### keywords Collector
+
 It aims to collect the most popular 20 keywords about health food industry every single day and it shows statistical trend using table.
 
 ## Tech Stack
